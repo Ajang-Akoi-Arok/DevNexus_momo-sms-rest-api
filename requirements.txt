@@ -5,8 +5,4 @@
 #   python3 api/app.py              # start the REST API
 #   python3 dsa/dsa_comparison.py   # run the search benchmark
 #   bash screenshots/run_tests.sh   # run the curl test suite
-#
-# reportlab is only required to regenerate the PDF report:
-#   python3 docs/build_report.py
-reportlab>=4.0
-defusedxml>=0.7.1
+

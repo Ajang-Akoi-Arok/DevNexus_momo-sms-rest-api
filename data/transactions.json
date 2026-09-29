@@ -149,7 +149,7 @@
     "readable_date": "12 May 2024 11:41:35 AM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*162*TxId:13913173274*S*Your payment of 2000 RWF to Airtime with token  has been completed at 2024-05-12 11:41:28. Fee was 0 RWF. Your new balance: 25280 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:13913173274*S*Your payment of 2000 RWF to Airtime with token has been completed at 2024-05-12 11:41:28. Fee was 0 RWF. Your new balance: 25280 RWF . Message: - -. *EN#"
   },
   {
     "id": 9,
@@ -259,11 +259,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-05-12T20:49:30",
+    "timestamp": "2024-05-12T18:49:37.414000+00:00",
     "readable_date": "12 May 2024 8:49:37 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*2000 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-05-12 20:49:30 . Fee was: 100 RWF. New balance: 980 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*2000 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 05-12 20:49:30 . Fee was: 100 RWF. New balance: 980 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 15,
@@ -373,11 +373,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-05-14T19:21:16",
+    "timestamp": "2024-05-14T17:21:24.404000+00:00",
     "readable_date": "14 May 2024 7:21:24 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*1800 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-05-14 19:21:16 . Fee was: 100 RWF. New balance: 4060 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1800 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 05-14 19:21:16 . Fee was: 100 RWF. New balance: 4060 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 21,
@@ -415,7 +415,7 @@
     "readable_date": "14 May 2024 9:01:09 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*164*S*Y'ello,A transaction of 25000 RWF by DIRECT PAYMENT LTD  on your MOMO account was successfully completed at 2024-05-14 21:01:00. Message from debit receiver: . Your new balance:4060 RWF. Fee was 0 RWF. Financial Transaction Id: 13947831685. External Transaction Id: 47842929.*EN#"
+    "body": "*164*S*Y'ello,A transaction of 25000 RWF by DIRECT PAYMENT LTD on your MOMO account was successfully completed at 2024-05-14 21:01:00. Message from debit receiver: . Your new balance:4060 RWF. Fee was 0 RWF. Financial Transaction Id: 13947831685. External Transaction Id: 47842929.*EN#"
   },
   {
     "id": 23,
@@ -1688,7 +1688,7 @@
     "readable_date": "27 May 2024 6:40:53 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*162*TxId:14121530824*S*Your payment of 2000 RWF to Airtime with token  has been completed at 2024-05-27 18:40:46. Fee was 0 RWF. Your new balance: 150 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14121530824*S*Your payment of 2000 RWF to Airtime with token has been completed at 2024-05-27 18:40:46. Fee was 0 RWF. Your new balance: 150 RWF . Message: - -. *EN#"
   },
   {
     "id": 90,
@@ -1817,11 +1817,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-05-29T19:08:37",
+    "timestamp": "2024-05-29T17:11:57.637000+00:00",
     "readable_date": "29 May 2024 7:11:57 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*6000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-05-29 19:08:37 . Fee was: 100 RWF. New balance: 400 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*6000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 05-29 19:08:37 . Fee was: 100 RWF. New balance: 400 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 97,
@@ -2178,11 +2178,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-02T17:28:41",
+    "timestamp": "2024-06-02T15:28:51.566000+00:00",
     "readable_date": "2 Jun 2024 5:28:51 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*2000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-06-02 17:28:41 . Fee was: 100 RWF. New balance: 130 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*2000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 06-02 17:28:41 . Fee was: 100 RWF. New balance: 130 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 116,
@@ -2292,11 +2292,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-03T13:32:11",
+    "timestamp": "2024-06-03T11:32:17.701000+00:00",
     "readable_date": "3 Jun 2024 1:32:17 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*1500 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-06-03 13:32:11 . Fee was: 100 RWF. New balance: 1430 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1500 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 06-03 13:32:11 . Fee was: 100 RWF. New balance: 1430 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 122,
@@ -2762,16 +2762,16 @@
     "new_balance": 230.0,
     "sender": null,
     "sender_phone": null,
-    "receiver": "INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd",
+    "receiver": "INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd",
     "receiver_phone": null,
     "receiver_code": null,
     "account": null,
     "financial_transaction_id": "14262449979",
-    "timestamp": "2024-06-06T16:19:01",
+    "timestamp": "2024-06-06T14:19:08.224000+00:00",
     "readable_date": "6 Jun 2024 4:19:08 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*164*S*Y'ello,A transaction of 600 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-06-06 16:19:01. Message from debit receiver: ITEC Pay. Your new balance:230 RWF. Fee was 0 RWF. Financial Transaction Id: 14262449979. External Transaction Id: c5e8bfeb-33d8-4eb2-8d22-154e5ff5e310.*EN#"
+    "body": "*164*S*Y'ello,A transaction of 600 RWF by INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd on your MOMO account was successfully completed at 2024-06- 06 16:19:01. Message from debit receiver: ITEC Pay. Your new balance:230 RWF. Fee was 0 RWF. Financial Transaction Id: 14262449979. External Transaction Id: c5e8bfeb-33d8-4eb2-8d22-154e5ff5e310.*EN#"
   },
   {
     "id": 147,
@@ -2805,11 +2805,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-06T18:06:14",
+    "timestamp": "2024-06-06T16:06:39.338000+00:00",
     "readable_date": "6 Jun 2024 6:06:39 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*1500 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-06-06 18:06:14 . Fee was: 100 RWF. New balance: 3630 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1500 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 06-06 18:06:14 . Fee was: 100 RWF. New balance: 3630 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 149,
@@ -3018,7 +3018,7 @@
     "readable_date": "9 Jun 2024 2:58:57 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*162*TxId:14303889432*S*Your payment of 2000 RWF to Airtime with token  has been completed at 2024-06-09 14:58:25. Fee was 0 RWF. Your new balance: 3350 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14303889432*S*Your payment of 2000 RWF to Airtime with token has been completed at 2024-06-09 14:58:25. Fee was 0 RWF. Your new balance: 3350 RWF . Message: - -. *EN#"
   },
   {
     "id": 160,
@@ -3037,7 +3037,7 @@
     "readable_date": "9 Jun 2024 3:59:01 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*162*TxId:14304661948*S*Your payment of 1000 RWF to Airtime with token  has been completed at 2024-06-09 15:58:28. Fee was 0 RWF. Your new balance: 2350 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14304661948*S*Your payment of 1000 RWF to Airtime with token has been completed at 2024-06-09 15:58:28. Fee was 0 RWF. Your new balance: 2350 RWF . Message: - -. *EN#"
   },
   {
     "id": 161,
@@ -3075,7 +3075,7 @@
     "readable_date": "11 Jun 2024 6:26:21 AM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*162*TxId:14324965479*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-06-11 06:26:11. Fee was 0 RWF. Your new balance: 350 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14324965479*S*Your payment of 2000 RWF to Bundles and Packs with token has been completed at 2024-06-11 06:26:11. Fee was 0 RWF. Your new balance: 350 RWF . Message: - -. *EN#"
   },
   {
     "id": 163,
@@ -3204,11 +3204,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-11T17:03:44",
+    "timestamp": "2024-06-11T15:03:52.324000+00:00",
     "readable_date": "11 Jun 2024 5:03:52 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*1700 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-06-11 17:03:44 . Fee was: 100 RWF. New balance: 3310 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1700 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 06-11 17:03:44 . Fee was: 100 RWF. New balance: 3310 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 170,
@@ -3280,11 +3280,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-12T13:21:47",
+    "timestamp": "2024-06-12T11:21:53.312000+00:00",
     "readable_date": "12 Jun 2024 1:21:53 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*1500 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-06-12 13:21:47 . Fee was: 100 RWF. New balance: 1110 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1500 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 06-12 13:21:47 . Fee was: 100 RWF. New balance: 1110 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 174,
@@ -3413,11 +3413,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-12T17:52:30",
+    "timestamp": "2024-06-12T15:52:37.353000+00:00",
     "readable_date": "12 Jun 2024 5:52:37 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*1000 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-06-12 17:52:30 . Fee was: 20 RWF. New balance: 6470 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1000 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 06-12 17:52:30 . Fee was: 20 RWF. New balance: 6470 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 181,
@@ -3645,7 +3645,7 @@
     "readable_date": "14 Jun 2024 7:52:16 AM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*164*S*Y'ello,A transaction of 25000 RWF by DIRECT PAYMENT LTD  on your MOMO account was successfully completed at 2024-06-14 07:52:10. Message from debit receiver: . Your new balance:4750 RWF. Fee was 0 RWF. Financial Transaction Id: 14366722236. External Transaction Id: 48214394.*EN#"
+    "body": "*164*S*Y'ello,A transaction of 25000 RWF by DIRECT PAYMENT LTD on your MOMO account was successfully completed at 2024-06-14 07:52:10. Message from debit receiver: . Your new balance:4750 RWF. Fee was 0 RWF. Financial Transaction Id: 14366722236. External Transaction Id: 48214394.*EN#"
   },
   {
     "id": 193,
@@ -3812,11 +3812,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-14T17:23:57",
+    "timestamp": "2024-06-14T15:24:05.060000+00:00",
     "readable_date": "14 Jun 2024 5:24:05 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*200 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-06-14 17:23:57 . Fee was: 20 RWF. New balance: 4830 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*200 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 06-14 17:23:57 . Fee was: 20 RWF. New balance: 4830 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 202,
@@ -4249,11 +4249,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-16T14:31:13",
+    "timestamp": "2024-06-16T12:31:19.963000+00:00",
     "readable_date": "16 Jun 2024 2:31:19 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*400 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-06-16 14:31:13 . Fee was: 20 RWF. New balance: 14350 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*400 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 06-16 14:31:13 . Fee was: 20 RWF. New balance: 14350 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 225,
@@ -4263,7 +4263,7 @@
     "new_balance": 9350.0,
     "sender": null,
     "sender_phone": null,
-    "receiver": "Future Dynamic  Innovations ltd",
+    "receiver": "Future Dynamic Innovations ltd",
     "receiver_phone": null,
     "receiver_code": null,
     "account": null,
@@ -4272,7 +4272,7 @@
     "readable_date": "16 Jun 2024 7:26:07 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*164*S*Y'ello,A transaction of 5000 RWF by Future Dynamic  Innovations ltd on your MOMO account was successfully completed at 2024-06-16 19:25:44. Message from debit receiver: 610. Your new balance:9350 RWF. Fee was 0 RWF. Financial Transaction Id: 14404189056. External Transaction Id: 475e95b8a1d049c2ba9ee675401d9332.*EN#"
+    "body": "*164*S*Y'ello,A transaction of 5000 RWF by Future Dynamic Innovations ltd on your MOMO account was successfully completed at 2024-06-16 19:25:44. Message from debit receiver: 610. Your new balance:9350 RWF. Fee was 0 RWF. Financial Transaction Id: 14404189056. External Transaction Id: 475e95b8a1d049c2ba9ee675401d9332.*EN#"
   },
   {
     "id": 226,
@@ -4367,7 +4367,7 @@
     "readable_date": "17 Jun 2024 2:58:40 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*162*TxId:14412904724*S*Your payment of 200 RWF to Airtime with token  has been completed at 2024-06-17 14:57:47. Fee was 0 RWF. Your new balance: 130 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14412904724*S*Your payment of 200 RWF to Airtime with token has been completed at 2024-06-17 14:57:47. Fee was 0 RWF. Your new balance: 130 RWF . Message: - -. *EN#"
   },
   {
     "id": 231,
@@ -4405,7 +4405,7 @@
     "readable_date": "17 Jun 2024 3:55:03 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*162*TxId:14413610551*S*Your payment of 5000 RWF to Airtime with token  has been completed at 2024-06-17 15:54:55. Fee was 0 RWF. Your new balance: 15130 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14413610551*S*Your payment of 5000 RWF to Airtime with token has been completed at 2024-06-17 15:54:55. Fee was 0 RWF. Your new balance: 15130 RWF . Message: - -. *EN#"
   },
   {
     "id": 233,
@@ -4823,7 +4823,7 @@
     "readable_date": "19 Jun 2024 6:16:29 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*162*TxId:14443130677*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-06-19 18:15:53. Fee was 0 RWF. Your new balance: 3810 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14443130677*S*Your payment of 2000 RWF to Bundles and Packs with token has been completed at 2024-06-19 18:15:53. Fee was 0 RWF. Your new balance: 3810 RWF . Message: - -. *EN#"
   },
   {
     "id": 255,
@@ -4914,11 +4914,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-20T19:22:27",
+    "timestamp": "2024-06-20T17:22:34.040000+00:00",
     "readable_date": "20 Jun 2024 7:22:34 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*1000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-06-20 19:22:27 . Fee was: 20 RWF. New balance: 2640 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 06-20 19:22:27 . Fee was: 20 RWF. New balance: 2640 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 260,
@@ -5009,11 +5009,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-21T17:40:25",
+    "timestamp": "2024-06-21T15:40:31.712000+00:00",
     "readable_date": "21 Jun 2024 5:40:31 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*5000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-06-21 17:40:25 . Fee was: 100 RWF. New balance: 5540 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*5000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 06-21 17:40:25 . Fee was: 100 RWF. New balance: 5540 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 265,
@@ -5104,11 +5104,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-22T10:13:03",
+    "timestamp": "2024-06-22T08:13:10.211000+00:00",
     "readable_date": "22 Jun 2024 10:13:10 AM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*1200 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-06-22 10:13:03 . Fee was: 100 RWF. New balance: 4940 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1200 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 06-22 10:13:03 . Fee was: 100 RWF. New balance: 4940 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 270,
@@ -5237,11 +5237,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-22T20:13:21",
+    "timestamp": "2024-06-22T18:13:27.975000+00:00",
     "readable_date": "22 Jun 2024 8:13:27 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*2000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-06-22 20:13:21 . Fee was: 100 RWF. New balance: 14120 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*2000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 06-22 20:13:21 . Fee was: 100 RWF. New balance: 14120 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 277,
@@ -5446,11 +5446,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-24T14:52:16",
+    "timestamp": "2024-06-24T12:52:23.488000+00:00",
     "readable_date": "24 Jun 2024 2:52:23 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*1500 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-06-24 14:52:16 . Fee was: 100 RWF. New balance: 3820 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1500 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 06-24 14:52:16 . Fee was: 100 RWF. New balance: 3820 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 288,
@@ -5978,11 +5978,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-26T16:42:17",
+    "timestamp": "2024-06-26T14:42:22.963000+00:00",
     "readable_date": "26 Jun 2024 4:42:22 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*1500 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-06-26 16:42:17 . Fee was: 100 RWF. New balance: 160 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1500 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 06-26 16:42:17 . Fee was: 100 RWF. New balance: 160 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 316,
@@ -6191,7 +6191,7 @@
     "readable_date": "27 Jun 2024 3:06:54 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*162*TxId:14551117248*S*Your payment of 2000 RWF to Airtime with token  has been completed at 2024-06-27 15:06:43. Fee was 0 RWF. Your new balance: 1990 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14551117248*S*Your payment of 2000 RWF to Airtime with token has been completed at 2024-06-27 15:06:43. Fee was 0 RWF. Your new balance: 1990 RWF . Message: - -. *EN#"
   },
   {
     "id": 327,
@@ -6400,7 +6400,7 @@
     "readable_date": "28 Jun 2024 5:38:24 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*162*TxId:14568668252*S*Your payment of 2000 RWF to Airtime with token  has been completed at 2024-06-28 17:38:18. Fee was 0 RWF. Your new balance: 32170 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14568668252*S*Your payment of 2000 RWF to Airtime with token has been completed at 2024-06-28 17:38:18. Fee was 0 RWF. Your new balance: 32170 RWF . Message: - -. *EN#"
   },
   {
     "id": 338,
@@ -6419,7 +6419,7 @@
     "readable_date": "28 Jun 2024 6:00:50 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*162*TxId:14569120894*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-06-28 18:00:22. Fee was 0 RWF. Your new balance: 30170 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14569120894*S*Your payment of 2000 RWF to Bundles and Packs with token has been completed at 2024-06-28 18:00:22. Fee was 0 RWF. Your new balance: 30170 RWF . Message: - -. *EN#"
   },
   {
     "id": 339,
@@ -6505,7 +6505,7 @@
     "new_balance": 21670.0,
     "sender": null,
     "sender_phone": null,
-    "receiver": "INTOUCH COMMUNICATIONS  LTD",
+    "receiver": "INTOUCH COMMUNICATIONS LTD",
     "receiver_phone": null,
     "receiver_code": null,
     "account": null,
@@ -6514,7 +6514,7 @@
     "readable_date": "29 Jun 2024 12:32:25 AM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS  LTD on your MOMO account was successfully completed at 2024-06-29 00:32:19. Message from debit receiver: 250795963036. Your new balance:21670 RWF. Fee was 0 RWF. Financial Transaction Id: 14574631016. External Transaction Id: 169587820240628223202678996.*EN#"
+    "body": "*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS LTD on your MOMO account was successfully completed at 2024-06-29 00:32:19. Message from debit receiver: 250795963036. Your new balance:21670 RWF. Fee was 0 RWF. Financial Transaction Id: 14574631016. External Transaction Id: 169587820240628223202678996.*EN#"
   },
   {
     "id": 344,
@@ -6733,7 +6733,7 @@
     "new_balance": 45870.0,
     "sender": null,
     "sender_phone": null,
-    "receiver": "INTOUCH COMMUNICATIONS  LTD",
+    "receiver": "INTOUCH COMMUNICATIONS LTD",
     "receiver_phone": null,
     "receiver_code": null,
     "account": null,
@@ -6742,7 +6742,7 @@
     "readable_date": "29 Jun 2024 4:07:00 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS  LTD on your MOMO account was successfully completed at 2024-06-29 16:06:06. Message from debit receiver: 250795963036. Your new balance:45870 RWF. Fee was 0 RWF. Financial Transaction Id: 14582579702. External Transaction Id: 169710420240629140334182447.*EN#"
+    "body": "*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS LTD on your MOMO account was successfully completed at 2024-06-29 16:06:06. Message from debit receiver: 250795963036. Your new balance:45870 RWF. Fee was 0 RWF. Financial Transaction Id: 14582579702. External Transaction Id: 169710420240629140334182447.*EN#"
   },
   {
     "id": 356,
@@ -7099,11 +7099,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-30T15:32:39",
+    "timestamp": "2024-06-30T13:32:45.648000+00:00",
     "readable_date": "30 Jun 2024 3:32:45 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*500 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-06-30 15:32:39 . Fee was: 20 RWF. New balance: 27160 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*500 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 06-30 15:32:39 . Fee was: 20 RWF. New balance: 27160 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 375,
@@ -7213,11 +7213,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-06-30T18:48:12",
+    "timestamp": "2024-06-30T16:48:18.557000+00:00",
     "readable_date": "30 Jun 2024 6:48:18 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*1000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-06-30 18:48:12 . Fee was: 20 RWF. New balance: 3590 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 06-30 18:48:12 . Fee was: 20 RWF. New balance: 3590 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 381,
@@ -7597,7 +7597,7 @@
     "readable_date": "2 Jul 2024 5:42:49 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*162*TxId:14628107159*S*Your payment of 3000 RWF to Airtime with token  has been completed at 2024-07-02 17:42:37. Fee was 0 RWF. Your new balance: 11370 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14628107159*S*Your payment of 3000 RWF to Airtime with token has been completed at 2024-07-02 17:42:37. Fee was 0 RWF. Your new balance: 11370 RWF . Message: - -. *EN#"
   },
   {
     "id": 401,
@@ -7863,7 +7863,7 @@
     "readable_date": "4 Jul 2024 2:03:03 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*162*TxId:14655104674*S*Your payment of 500 RWF to Bundles and Packs with token  has been completed at 2024-07-04 14:02:53. Fee was 0 RWF. Your new balance: 220 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14655104674*S*Your payment of 500 RWF to Bundles and Packs with token has been completed at 2024-07-04 14:02:53. Fee was 0 RWF. Your new balance: 220 RWF . Message: - -. *EN#"
   },
   {
     "id": 415,
@@ -8125,11 +8125,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-07-05T22:06:01",
+    "timestamp": "2024-07-05T20:06:15.309000+00:00",
     "readable_date": "5 Jul 2024 10:06:15 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*6000 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-07-05 22:06:01 . Fee was: 100 RWF. New balance: 43200 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*6000 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 07-05 22:06:01 . Fee was: 100 RWF. New balance: 43200 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 429,
@@ -8239,11 +8239,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-07-06T19:53:10",
+    "timestamp": "2024-07-06T17:53:18.756000+00:00",
     "readable_date": "6 Jul 2024 7:53:18 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*165*S*1200 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-07-06 19:53:10 . Fee was: 100 RWF. New balance: 30650 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1200 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 07-06 19:53:10 . Fee was: 100 RWF. New balance: 30650 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 435,
@@ -8657,11 +8657,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-07-09T10:09:14",
+    "timestamp": "2024-07-09T08:09:25.310000+00:00",
     "readable_date": "9 Jul 2024 10:09:25 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1200 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-07-09 10:09:14 . Fee was: 100 RWF. New balance: 16890 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1200 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 07-09 10:09:14 . Fee was: 100 RWF. New balance: 16890 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 457,
@@ -8870,7 +8870,7 @@
     "readable_date": "11 Jul 2024 9:25:58 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:14756781450*S*Your payment of 500 RWF to Bundles and Packs with token  has been completed at 2024-07-11 09:25:46. Fee was 0 RWF. Your new balance: 340 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14756781450*S*Your payment of 500 RWF to Bundles and Packs with token has been completed at 2024-07-11 09:25:46. Fee was 0 RWF. Your new balance: 340 RWF . Message: - -. *EN#"
   },
   {
     "id": 468,
@@ -9113,11 +9113,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-07-14T14:54:20",
+    "timestamp": "2024-07-14T12:54:28.481000+00:00",
     "readable_date": "14 Jul 2024 2:54:28 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*700 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-07-14 14:54:20 . Fee was: 20 RWF. New balance: 49320 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*700 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 07-14 14:54:20 . Fee was: 20 RWF. New balance: 49320 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 481,
@@ -9189,11 +9189,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-07-14T17:31:07",
+    "timestamp": "2024-07-14T15:31:16.997000+00:00",
     "readable_date": "14 Jul 2024 5:31:16 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*800 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-07-14 17:31:07 . Fee was: 20 RWF. New balance: 7950 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*800 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 07-14 17:31:07 . Fee was: 20 RWF. New balance: 7950 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 485,
@@ -9436,11 +9436,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-07-15T16:46:24",
+    "timestamp": "2024-07-15T14:46:33.457000+00:00",
     "readable_date": "15 Jul 2024 4:46:33 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1000 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-07-15 16:46:24 . Fee was: 20 RWF. New balance: 12890 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1000 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 07-15 16:46:24 . Fee was: 20 RWF. New balance: 12890 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 498,
@@ -9930,11 +9930,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-07-20T17:15:21",
+    "timestamp": "2024-07-20T15:15:27.856000+00:00",
     "readable_date": "20 Jul 2024 5:15:27 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1500 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-07-20 17:15:21 . Fee was: 100 RWF. New balance: 6410 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1500 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 07-20 17:15:21 . Fee was: 100 RWF. New balance: 6410 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 524,
@@ -9949,11 +9949,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-07-20T17:15:56",
+    "timestamp": "2024-07-20T15:16:03.238000+00:00",
     "readable_date": "20 Jul 2024 5:16:03 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1500 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-07-20 17:15:56 . Fee was: 100 RWF. New balance: 4810 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1500 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 07-20 17:15:56 . Fee was: 100 RWF. New balance: 4810 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 525,
@@ -10139,11 +10139,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-07-20T21:49:21",
+    "timestamp": "2024-07-20T19:49:28.052000+00:00",
     "readable_date": "20 Jul 2024 9:49:28 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1500 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-07-20 21:49:21 . Fee was: 100 RWF. New balance: 18510 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1500 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 07-20 21:49:21 . Fee was: 100 RWF. New balance: 18510 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 535,
@@ -10181,7 +10181,7 @@
     "readable_date": "21 Jul 2024 6:19:32 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:14909215103*S*Your payment of 200 RWF to Bundles and Packs with token  has been completed at 2024-07-21 18:19:26. Fee was 0 RWF. Your new balance: 60 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14909215103*S*Your payment of 200 RWF to Bundles and Packs with token has been completed at 2024-07-21 18:19:26. Fee was 0 RWF. Your new balance: 60 RWF . Message: - -. *EN#"
   },
   {
     "id": 537,
@@ -10348,11 +10348,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-07-23T09:07:35",
+    "timestamp": "2024-07-23T07:07:43.077000+00:00",
     "readable_date": "23 Jul 2024 9:07:43 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*7000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-07-23 09:07:35 . Fee was: 100 RWF. New balance: 4260 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*7000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 07-23 09:07:35 . Fee was: 100 RWF. New balance: 4260 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 546,
@@ -10485,7 +10485,7 @@
     "readable_date": "23 Jul 2024 9:22:23 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:14940294542*S*Your payment of 500 RWF to Bundles and Packs with token  has been completed at 2024-07-23 21:22:15. Fee was 0 RWF. Your new balance: 40 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14940294542*S*Your payment of 500 RWF to Bundles and Packs with token has been completed at 2024-07-23 21:22:15. Fee was 0 RWF. Your new balance: 40 RWF . Message: - -. *EN#"
   },
   {
     "id": 553,
@@ -10766,11 +10766,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-07-25T13:33:37",
+    "timestamp": "2024-07-25T11:33:43.685000+00:00",
     "readable_date": "25 Jul 2024 1:33:43 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1000 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-07-25 13:33:37 . Fee was: 20 RWF. New balance: 31220 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1000 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 07-25 13:33:37 . Fee was: 20 RWF. New balance: 31220 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 568,
@@ -10922,7 +10922,7 @@
     "readable_date": "26 Jul 2024 12:11:15 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:14969968017*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-07-26 00:10:38. Fee was 0 RWF. Your new balance: 2000 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:14969968017*S*Your payment of 2000 RWF to Bundles and Packs with token has been completed at 2024-07-26 00:10:38. Fee was 0 RWF. Your new balance: 2000 RWF . Message: - -. *EN#"
   },
   {
     "id": 576,
@@ -11150,7 +11150,7 @@
     "readable_date": "26 Jul 2024 3:16:12 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:14977177408*S*Your payment of 673000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-07-26 15:16:04. Fee was 8000 RWF. Your new balance: 4950 RWF . Message: - Transaction has been processed successfully. *EN#"
+    "body": "*162*TxId:14977177408*S*Your payment of 673000 RWF to ONAFRIQ MAURITIUS with token has been completed at 2024-07-26 15:16:04. Fee was 8000 RWF. Your new balance: 4950 RWF . Message: - Transaction has been processed successfully. *EN#"
   },
   {
     "id": 588,
@@ -11188,7 +11188,7 @@
     "readable_date": "26 Jul 2024 3:24:12 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:14977293553*S*Your payment of 45000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-07-26 15:24:04. Fee was 1200 RWF. Your new balance: 8750 RWF . Message: - Transaction has been processed successfully. *EN#"
+    "body": "*162*TxId:14977293553*S*Your payment of 45000 RWF to ONAFRIQ MAURITIUS with token has been completed at 2024-07-26 15:24:04. Fee was 1200 RWF. Your new balance: 8750 RWF . Message: - Transaction has been processed successfully. *EN#"
   },
   {
     "id": 590,
@@ -11226,7 +11226,7 @@
     "readable_date": "26 Jul 2024 3:30:11 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:14977386817*S*Your payment of 50000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-07-26 15:30:04. Fee was 1200 RWF. Your new balance: 7550 RWF . Message: - Transaction has been processed successfully. *EN#"
+    "body": "*162*TxId:14977386817*S*Your payment of 50000 RWF to ONAFRIQ MAURITIUS with token has been completed at 2024-07-26 15:30:04. Fee was 1200 RWF. Your new balance: 7550 RWF . Message: - Transaction has been processed successfully. *EN#"
   },
   {
     "id": 592,
@@ -11355,11 +11355,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-07-27T14:12:29",
+    "timestamp": "2024-07-27T12:12:35.941000+00:00",
     "readable_date": "27 Jul 2024 2:12:35 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1300 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-07-27 14:12:29 . Fee was: 100 RWF. New balance: 23680 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1300 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 07-27 14:12:29 . Fee was: 100 RWF. New balance: 23680 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 599,
@@ -11374,11 +11374,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-07-27T15:07:14",
+    "timestamp": "2024-07-27T13:07:21.454000+00:00",
     "readable_date": "27 Jul 2024 3:07:21 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-07-27 15:07:14 . Fee was: 20 RWF. New balance: 22660 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 07-27 15:07:14 . Fee was: 20 RWF. New balance: 22660 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 600,
@@ -11853,7 +11853,7 @@
     "readable_date": "1 Aug 2024 1:23:53 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15064161618*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2024-08-01 13:22:02. Fee was 0 RWF. Your new balance: 24960 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:15064161618*S*Your payment of 3000 RWF to Bundles and Packs with token has been completed at 2024-08-01 13:22:02. Fee was 0 RWF. Your new balance: 24960 RWF . Message: - -. *EN#"
   },
   {
     "id": 625,
@@ -11967,7 +11967,7 @@
     "readable_date": "1 Aug 2024 7:03:51 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15070248766*S*Your payment of 500 RWF to Bundles and Packs with token  has been completed at 2024-08-01 19:03:14. Fee was 0 RWF. Your new balance: 210 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:15070248766*S*Your payment of 500 RWF to Bundles and Packs with token has been completed at 2024-08-01 19:03:14. Fee was 0 RWF. Your new balance: 210 RWF . Message: - -. *EN#"
   },
   {
     "id": 631,
@@ -12176,7 +12176,7 @@
     "readable_date": "3 Aug 2024 4:42:18 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15097735991*S*Your payment of 1000 RWF to Bundles and Packs with token  has been completed at 2024-08-03 16:42:06. Fee was 0 RWF. Your new balance: 4940 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:15097735991*S*Your payment of 1000 RWF to Bundles and Packs with token has been completed at 2024-08-03 16:42:06. Fee was 0 RWF. Your new balance: 4940 RWF . Message: - -. *EN#"
   },
   {
     "id": 642,
@@ -12286,11 +12286,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-08-04T18:17:23",
+    "timestamp": "2024-08-04T16:17:30.557000+00:00",
     "readable_date": "4 Aug 2024 6:17:30 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1500 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-08-04 18:17:23 . Fee was: 100 RWF. New balance: 33440 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1500 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 08-04 18:17:23 . Fee was: 100 RWF. New balance: 33440 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 648,
@@ -12438,11 +12438,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-08-05T13:36:50",
+    "timestamp": "2024-08-05T11:36:57.443000+00:00",
     "readable_date": "5 Aug 2024 1:36:57 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*7000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-08-05 13:36:50 . Fee was: 100 RWF. New balance: 290 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*7000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 08-05 13:36:50 . Fee was: 100 RWF. New balance: 290 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 656,
@@ -12461,7 +12461,7 @@
     "readable_date": "5 Aug 2024 5:15:31 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15126906031*S*Your payment of 200 RWF to Bundles and Packs with token  has been completed at 2024-08-05 17:15:24. Fee was 0 RWF. Your new balance: 90 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:15126906031*S*Your payment of 200 RWF to Bundles and Packs with token has been completed at 2024-08-05 17:15:24. Fee was 0 RWF. Your new balance: 90 RWF . Message: - -. *EN#"
   },
   {
     "id": 657,
@@ -12632,7 +12632,7 @@
     "readable_date": "6 Aug 2024 8:22:17 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15146128209*S*Your payment of 1000 RWF to Bundles and Packs with token  has been completed at 2024-08-06 20:22:06. Fee was 0 RWF. Your new balance: 290 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:15146128209*S*Your payment of 1000 RWF to Bundles and Packs with token has been completed at 2024-08-06 20:22:06. Fee was 0 RWF. Your new balance: 290 RWF . Message: - -. *EN#"
   },
   {
     "id": 666,
@@ -13107,7 +13107,7 @@
     "readable_date": "8 Aug 2024 9:19:23 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15178525743*S*Your payment of 1000 RWF to Bundles and Packs with token  has been completed at 2024-08-08 21:19:16. Fee was 0 RWF. Your new balance: 5170 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:15178525743*S*Your payment of 1000 RWF to Bundles and Packs with token has been completed at 2024-08-08 21:19:16. Fee was 0 RWF. Your new balance: 5170 RWF . Message: - -. *EN#"
   },
   {
     "id": 691,
@@ -13145,7 +13145,7 @@
     "readable_date": "9 Aug 2024 8:04:56 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15180796103*S*Your payment of 2000 RWF to Airtime with token  has been completed at 2024-08-09 08:04:48. Fee was 0 RWF. Your new balance: 3170 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:15180796103*S*Your payment of 2000 RWF to Airtime with token has been completed at 2024-08-09 08:04:48. Fee was 0 RWF. Your new balance: 3170 RWF . Message: - -. *EN#"
   },
   {
     "id": 693,
@@ -13164,7 +13164,7 @@
     "readable_date": "9 Aug 2024 11:44:16 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15183763430*S*Your payment of 2000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-08-09 11:44:02. Fee was 120 RWF. Your new balance: 1050 RWF . Message: - Transaction has been processed successfully. *EN#"
+    "body": "*162*TxId:15183763430*S*Your payment of 2000 RWF to ONAFRIQ MAURITIUS with token has been completed at 2024-08-09 11:44:02. Fee was 120 RWF. Your new balance: 1050 RWF . Message: - Transaction has been processed successfully. *EN#"
   },
   {
     "id": 694,
@@ -13202,7 +13202,7 @@
     "readable_date": "10 Aug 2024 6:10:19 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15204526240*S*Your payment of 90000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-08-10 18:10:04. Fee was 2000 RWF. Your new balance: 9050 RWF . Message: - Transaction has been processed successfully. *EN#"
+    "body": "*162*TxId:15204526240*S*Your payment of 90000 RWF to ONAFRIQ MAURITIUS with token has been completed at 2024-08-10 18:10:04. Fee was 2000 RWF. Your new balance: 9050 RWF . Message: - Transaction has been processed successfully. *EN#"
   },
   {
     "id": 696,
@@ -13259,7 +13259,7 @@
     "readable_date": "24 Aug 2024 10:23:48 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "1) 2024-08-23 DEPOSIT RWF 25000 Receiver: 250795963036 Sender:  Fee: RWF"
+    "body": "1) 2024-08-23 DEPOSIT RWF 25000 Receiver: 250795963036 Sender: Fee: RWF"
   },
   {
     "id": 699,
@@ -13464,11 +13464,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-08-26T08:50:54",
+    "timestamp": "2024-08-26T06:51:02.737000+00:00",
     "readable_date": "26 Aug 2024 8:51:02 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*300 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-08-26 08:50:54 . Fee was: 20 RWF. New balance: 28030 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*300 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 08-26 08:50:54 . Fee was: 20 RWF. New balance: 28030 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 710,
@@ -13692,11 +13692,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-08-27T18:16:38",
+    "timestamp": "2024-08-27T16:16:45.641000+00:00",
     "readable_date": "27 Aug 2024 6:16:45 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*2500 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-08-27 18:16:38 . Fee was: 100 RWF. New balance: 19410 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*2500 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 08-27 18:16:38 . Fee was: 100 RWF. New balance: 19410 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 722,
@@ -13943,7 +13943,7 @@
     "readable_date": "29 Aug 2024 9:30:41 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15475262766*S*Your payment of 5000 RWF to Bundles and Packs with token  has been completed at 2024-08-29 09:30:34. Fee was 0 RWF. Your new balance: 6260 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:15475262766*S*Your payment of 5000 RWF to Bundles and Packs with token has been completed at 2024-08-29 09:30:34. Fee was 0 RWF. Your new balance: 6260 RWF . Message: - -. *EN#"
   },
   {
     "id": 735,
@@ -13996,11 +13996,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-08-29T13:56:43",
+    "timestamp": "2024-08-29T11:56:50.430000+00:00",
     "readable_date": "29 Aug 2024 1:56:50 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*2000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-08-29 13:56:43 . Fee was: 100 RWF. New balance: 2560 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*2000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 08-29 13:56:43 . Fee was: 100 RWF. New balance: 2560 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 738,
@@ -14072,11 +14072,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-08-30T13:40:41",
+    "timestamp": "2024-08-30T11:40:48.904000+00:00",
     "readable_date": "30 Aug 2024 1:40:48 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1500 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-08-30 13:40:41 . Fee was: 100 RWF. New balance: 97860 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1500 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 08-30 13:40:41 . Fee was: 100 RWF. New balance: 97860 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 742,
@@ -14167,11 +14167,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-08-30T18:00:48",
+    "timestamp": "2024-08-30T16:00:55.432000+00:00",
     "readable_date": "30 Aug 2024 6:00:55 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1500 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-08-30 18:00:48 . Fee was: 100 RWF. New balance: 87420 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1500 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 08-30 18:00:48 . Fee was: 100 RWF. New balance: 87420 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 747,
@@ -14266,7 +14266,7 @@
     "readable_date": "31 Aug 2024 5:15:28 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15512525928*S*Your payment of 2000 RWF to Airtime with token  has been completed at 2024-08-31 17:15:19. Fee was 0 RWF. Your new balance: 28670 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:15512525928*S*Your payment of 2000 RWF to Airtime with token has been completed at 2024-08-31 17:15:19. Fee was 0 RWF. Your new balance: 28670 RWF . Message: - -. *EN#"
   },
   {
     "id": 752,
@@ -14494,7 +14494,7 @@
     "readable_date": "2 Sep 2024 11:07:30 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15538355693*S*Your payment of 3000 RWF to Airtime with token  has been completed at 2024-09-02 11:07:16. Fee was 0 RWF. Your new balance: 870 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:15538355693*S*Your payment of 3000 RWF to Airtime with token has been completed at 2024-09-02 11:07:16. Fee was 0 RWF. Your new balance: 870 RWF . Message: - -. *EN#"
   },
   {
     "id": 764,
@@ -14585,11 +14585,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-09-02T19:32:25",
+    "timestamp": "2024-09-02T17:32:32.814000+00:00",
     "readable_date": "2 Sep 2024 7:32:32 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-09-02 19:32:25 . Fee was: 20 RWF. New balance: 25850 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 09-02 19:32:25 . Fee was: 20 RWF. New balance: 25850 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 769,
@@ -14642,11 +14642,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-09-02T20:17:50",
+    "timestamp": "2024-09-02T18:17:57.453000+00:00",
     "readable_date": "2 Sep 2024 8:17:57 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*700 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-09-02 20:17:50 . Fee was: 20 RWF. New balance: 23690 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*700 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 09-02 20:17:50 . Fee was: 20 RWF. New balance: 23690 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 772,
@@ -14988,7 +14988,7 @@
     "readable_date": "5 Sep 2024 8:02:54 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15594922933*S*Your payment of 3000 RWF to Airtime with token  has been completed at 2024-09-05 20:02:44. Fee was 0 RWF. Your new balance: 12490 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:15594922933*S*Your payment of 3000 RWF to Airtime with token has been completed at 2024-09-05 20:02:44. Fee was 0 RWF. Your new balance: 12490 RWF . Message: - -. *EN#"
   },
   {
     "id": 790,
@@ -15022,11 +15022,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-09-06T11:57:31",
+    "timestamp": "2024-09-06T09:57:39.247000+00:00",
     "readable_date": "6 Sep 2024 11:57:39 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1500 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-09-06 11:57:31 . Fee was: 100 RWF. New balance: 8890 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1500 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 09-06 11:57:31 . Fee was: 100 RWF. New balance: 8890 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 792,
@@ -15397,7 +15397,7 @@
     "new_balance": 103260.0,
     "sender": null,
     "sender_phone": null,
-    "receiver": "INTOUCH COMMUNICATIONS  LTD",
+    "receiver": "INTOUCH COMMUNICATIONS LTD",
     "receiver_phone": null,
     "receiver_code": null,
     "account": null,
@@ -15406,7 +15406,7 @@
     "readable_date": "8 Sep 2024 1:12:49 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS  LTD on your MOMO account was successfully completed at 2024-09-08 01:12:33. Message from debit receiver: 250795963036. Your new balance:103260 RWF. Fee was 0 RWF. Financial Transaction Id: 15628862865. External Transaction Id: 188160120240907231214390890.*EN#"
+    "body": "*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS LTD on your MOMO account was successfully completed at 2024-09-08 01:12:33. Message from debit receiver: 250795963036. Your new balance:103260 RWF. Fee was 0 RWF. Financial Transaction Id: 15628862865. External Transaction Id: 188160120240907231214390890.*EN#"
   },
   {
     "id": 812,
@@ -15497,11 +15497,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-09-08T02:50:08",
+    "timestamp": "2024-09-08T00:50:16.888000+00:00",
     "readable_date": "8 Sep 2024 2:50:16 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-09-08 02:50:08 . Fee was: 20 RWF. New balance: 78700 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 09-08 02:50:08 . Fee was: 20 RWF. New balance: 78700 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 817,
@@ -15934,11 +15934,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-09-10T00:46:48",
+    "timestamp": "2024-09-09T22:46:56.517000+00:00",
     "readable_date": "10 Sep 2024 12:46:56 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*5000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-09-10 00:46:48 . Fee was: 100 RWF. New balance: 44770 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*5000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 09-10 00:46:48 . Fee was: 100 RWF. New balance: 44770 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 840,
@@ -16223,7 +16223,7 @@
     "readable_date": "11 Sep 2024 3:44:02 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15681666953*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2024-09-11 15:43:54. Fee was 0 RWF. Your new balance: 11330 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:15681666953*S*Your payment of 3000 RWF to Bundles and Packs with token has been completed at 2024-09-11 15:43:54. Fee was 0 RWF. Your new balance: 11330 RWF . Message: - -. *EN#"
   },
   {
     "id": 855,
@@ -16333,11 +16333,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-09-12T15:59:14",
+    "timestamp": "2024-09-12T13:59:22.115000+00:00",
     "readable_date": "12 Sep 2024 3:59:22 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*700 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-09-12 15:59:14 . Fee was: 20 RWF. New balance: 4910 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*700 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 09-12 15:59:14 . Fee was: 20 RWF. New balance: 4910 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 861,
@@ -16751,11 +16751,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-09-13T23:16:08",
+    "timestamp": "2024-09-13T21:16:16.332000+00:00",
     "readable_date": "13 Sep 2024 11:16:16 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*700 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-09-13 23:16:08 . Fee was: 20 RWF. New balance: 5620 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*700 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 09-13 23:16:08 . Fee was: 20 RWF. New balance: 5620 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 883,
@@ -17112,11 +17112,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-09-17T12:27:51",
+    "timestamp": "2024-09-17T10:28:05.719000+00:00",
     "readable_date": "17 Sep 2024 12:28:05 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1800 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-09-17 12:27:51 . Fee was: 100 RWF. New balance: 0 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1800 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 09-17 12:27:51 . Fee was: 100 RWF. New balance: 0 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 902,
@@ -17207,11 +17207,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-09-17T19:01:11",
+    "timestamp": "2024-09-17T17:01:20.270000+00:00",
     "readable_date": "17 Sep 2024 7:01:20 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*8000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-09-17 19:01:11 . Fee was: 100 RWF. New balance: 24050 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*8000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 09-17 19:01:11 . Fee was: 100 RWF. New balance: 24050 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 907,
@@ -17268,7 +17268,7 @@
     "readable_date": "18 Sep 2024 2:17:18 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:15783543056*S*Your payment of 5000 RWF to Bundles and Packs with token  has been completed at 2024-09-18 14:17:11. Fee was 0 RWF. Your new balance: 12850 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:15783543056*S*Your payment of 5000 RWF to Bundles and Packs with token has been completed at 2024-09-18 14:17:11. Fee was 0 RWF. Your new balance: 12850 RWF . Message: - -. *EN#"
   },
   {
     "id": 910,
@@ -17454,11 +17454,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-09-19T09:09:32",
+    "timestamp": "2024-09-19T07:09:39.884000+00:00",
     "readable_date": "19 Sep 2024 9:09:39 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1500 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-09-19 09:09:32 . Fee was: 100 RWF. New balance: 6430 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1500 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 09-19 09:09:32 . Fee was: 100 RWF. New balance: 6430 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 920,
@@ -17701,11 +17701,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-09-21T14:45:36",
+    "timestamp": "2024-09-21T12:45:52.903000+00:00",
     "readable_date": "21 Sep 2024 2:45:52 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-09-21 14:45:36 . Fee was: 20 RWF. New balance: 36910 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 09-21 14:45:36 . Fee was: 20 RWF. New balance: 36910 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 933,
@@ -18285,16 +18285,16 @@
     "new_balance": 1180.0,
     "sender": null,
     "sender_phone": null,
-    "receiver": "INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd",
+    "receiver": "INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd",
     "receiver_phone": null,
     "receiver_code": null,
     "account": null,
     "financial_transaction_id": "15874896437",
-    "timestamp": "2024-09-24T18:37:52",
+    "timestamp": "2024-09-24T16:38:00.498000+00:00",
     "readable_date": "24 Sep 2024 6:38:00 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*164*S*Y'ello,A transaction of 200 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-09-24 18:37:52. Message from debit receiver: ITEC Pay. Your new balance:1180 RWF. Fee was 0 RWF. Financial Transaction Id: 15874896437. External Transaction Id: 68d6367d-f56d-4436-a31f-6f59aeb70ef3.*EN#"
+    "body": "*164*S*Y'ello,A transaction of 200 RWF by INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd on your MOMO account was successfully completed at 2024-09- 24 18:37:52. Message from debit receiver: ITEC Pay. Your new balance:1180 RWF. Fee was 0 RWF. Financial Transaction Id: 15874896437. External Transaction Id: 68d6367d-f56d-4436-a31f-6f59aeb70ef3.*EN#"
   },
   {
     "id": 964,
@@ -20574,7 +20574,7 @@
     "readable_date": "13 Oct 2024 9:37:58 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:16211799078*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2024-10-13 09:37:49. Fee was 0 RWF. Your new balance: 25605 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:16211799078*S*Your payment of 3000 RWF to Bundles and Packs with token has been completed at 2024-10-13 09:37:49. Fee was 0 RWF. Your new balance: 25605 RWF . Message: - -. *EN#"
   },
   {
     "id": 1084,
@@ -21049,7 +21049,7 @@
     "readable_date": "18 Oct 2024 11:00:25 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "You have received 20000 RWF from Alex Doe (*********721) on your mobile money account at 2024-10-18 23:00:18. Message from sender: fund-transfer to  250795963036. Your new balance:26250 RWF. Financial Transaction Id: 29637659542."
+    "body": "You have received 20000 RWF from Alex Doe (*********721) on your mobile money account at 2024-10-18 23:00:18. Message from sender: fund-transfer to 250795963036. Your new balance:26250 RWF. Financial Transaction Id: 29637659542."
   },
   {
     "id": 1109,
@@ -21429,7 +21429,7 @@
     "readable_date": "23 Oct 2024 9:59:07 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "You have transferred 50000 RWF to Linda Green (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-23 09:59:01. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16400028923."
+    "body": "You have transferred 50000 RWF to Linda Green (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-23 09:59:01. Your new balance: . Message from sender: . Message to receiver: . Financial Transaction Id: 16400028923."
   },
   {
     "id": 1129,
@@ -21524,7 +21524,7 @@
     "readable_date": "23 Oct 2024 4:43:11 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "You have transferred 50000 RWF to Robert Brown (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-23 16:43:03. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16406794518."
+    "body": "You have transferred 50000 RWF to Robert Brown (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-23 16:43:03. Your new balance: . Message from sender: . Message to receiver: . Financial Transaction Id: 16406794518."
   },
   {
     "id": 1134,
@@ -21805,11 +21805,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-10-24T20:59:14",
+    "timestamp": "2024-10-24T18:59:21.624000+00:00",
     "readable_date": "24 Oct 2024 8:59:21 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*500 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-10-24 20:59:14 . Fee was: 20 RWF. New balance: 1382 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*500 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 10-24 20:59:14 . Fee was: 20 RWF. New balance: 1382 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1149,
@@ -21847,7 +21847,7 @@
     "readable_date": "25 Oct 2024 12:33:09 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "You have transferred 20000 RWF to Jane Smith (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-25 00:33:00. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16433471329."
+    "body": "You have transferred 20000 RWF to Jane Smith (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-25 00:33:00. Your new balance: . Message from sender: . Message to receiver: . Financial Transaction Id: 16433471329."
   },
   {
     "id": 1151,
@@ -21881,11 +21881,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-10-25T01:56:26",
+    "timestamp": "2024-10-24T23:56:33.684000+00:00",
     "readable_date": "25 Oct 2024 1:56:33 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*2000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-10-25 01:56:26 . Fee was: 100 RWF. New balance: 16282 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*2000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 10-25 01:56:26 . Fee was: 100 RWF. New balance: 16282 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1153,
@@ -21942,7 +21942,7 @@
     "readable_date": "25 Oct 2024 5:48:07 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "You have transferred 20000 RWF to Samuel Carter (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-25 05:48:00. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16434717507."
+    "body": "You have transferred 20000 RWF to Samuel Carter (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-25 05:48:00. Your new balance: . Message from sender: . Message to receiver: . Financial Transaction Id: 16434717507."
   },
   {
     "id": 1156,
@@ -22037,7 +22037,7 @@
     "readable_date": "26 Oct 2024 9:52:12 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "You have transferred 50000 RWF to Robert Brown (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-26 21:52:01. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16471170286."
+    "body": "You have transferred 50000 RWF to Robert Brown (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-26 21:52:01. Your new balance: . Message from sender: . Message to receiver: . Financial Transaction Id: 16471170286."
   },
   {
     "id": 1161,
@@ -22128,11 +22128,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-10-28T08:42:25",
+    "timestamp": "2024-10-28T06:42:39.553000+00:00",
     "readable_date": "28 Oct 2024 8:42:39 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*8000 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-10-28 08:42:25 . Fee was: 100 RWF. New balance: 21732 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*8000 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 10-28 08:42:25 . Fee was: 100 RWF. New balance: 21732 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1166,
@@ -22280,11 +22280,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-10-29T14:00:22",
+    "timestamp": "2024-10-29T12:00:42.359000+00:00",
     "readable_date": "29 Oct 2024 2:00:42 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-10-29 14:00:22 . Fee was: 20 RWF. New balance: 35262 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 10-29 14:00:22 . Fee was: 20 RWF. New balance: 35262 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1174,
@@ -22826,7 +22826,7 @@
     "new_balance": 14372.0,
     "sender": null,
     "sender_phone": null,
-    "receiver": "INTOUCH COMMUNICATIONS  LTD",
+    "receiver": "INTOUCH COMMUNICATIONS LTD",
     "receiver_phone": null,
     "receiver_code": null,
     "account": null,
@@ -22835,7 +22835,7 @@
     "readable_date": "2 Nov 2024 12:47:51 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*164*S*Y'ello,A transaction of 10000 RWF by INTOUCH COMMUNICATIONS  LTD on your MOMO account was successfully completed at 2024-11-02 00:47:43. Message from debit receiver: 250795963036. Your new balance:14372 RWF. Fee was 0 RWF. Financial Transaction Id: 16591010120. External Transaction Id: 194832520241101224717179801.*EN#"
+    "body": "*164*S*Y'ello,A transaction of 10000 RWF by INTOUCH COMMUNICATIONS LTD on your MOMO account was successfully completed at 2024-11-02 00:47:43. Message from debit receiver: 250795963036. Your new balance:14372 RWF. Fee was 0 RWF. Financial Transaction Id: 16591010120. External Transaction Id: 194832520241101224717179801.*EN#"
   },
   {
     "id": 1203,
@@ -23424,7 +23424,7 @@
     "readable_date": "5 Nov 2024 9:55:09 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "You have transferred 10000 RWF to Jane Smith (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-11-05 21:55:02. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16664315282."
+    "body": "You have transferred 10000 RWF to Jane Smith (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-11-05 21:55:02. Your new balance: . Message from sender: . Message to receiver: . Financial Transaction Id: 16664315282."
   },
   {
     "id": 1234,
@@ -24009,11 +24009,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-11-09T13:39:31",
+    "timestamp": "2024-11-09T11:40:58.852000+00:00",
     "readable_date": "9 Nov 2024 1:40:58 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*2500 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-11-09 13:39:31 . Fee was: 100 RWF. New balance: 2537 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*2500 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 11-09 13:39:31 . Fee was: 100 RWF. New balance: 2537 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1265,
@@ -24256,11 +24256,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-11-11T20:41:31",
+    "timestamp": "2024-11-11T18:41:38.279000+00:00",
     "readable_date": "11 Nov 2024 8:41:38 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*6000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-11-11 20:41:31 . Fee was: 100 RWF. New balance: 22 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*6000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 11-11 20:41:31 . Fee was: 100 RWF. New balance: 22 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1278,
@@ -24450,7 +24450,7 @@
     "readable_date": "12 Nov 2024 11:47:54 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*143*TxId:16803066185*S*Your payment of 5000 RWF to Bundles and Packs with token  has failed at 2024-11-12 23:47:47. Message: - -. *EN#"
+    "body": "*143*TxId:16803066185*S*Your payment of 5000 RWF to Bundles and Packs with token has failed at 2024-11-12 23:47:47. Message: - -. *EN#"
   },
   {
     "id": 1288,
@@ -24469,7 +24469,7 @@
     "readable_date": "12 Nov 2024 11:49:47 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*143*TxId:16803076383*S*Your payment of 5000 RWF to Bundles and Packs with token  has failed at 2024-11-12 23:49:39. Message: - -. *EN#"
+    "body": "*143*TxId:16803076383*S*Your payment of 5000 RWF to Bundles and Packs with token has failed at 2024-11-12 23:49:39. Message: - -. *EN#"
   },
   {
     "id": 1289,
@@ -24488,7 +24488,7 @@
     "readable_date": "12 Nov 2024 11:51:11 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:16803083833*S*Your payment of 5000 RWF to Airtime with token  has been completed at 2024-11-12 23:51:04. Fee was 0 RWF. Your new balance: 28022 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:16803083833*S*Your payment of 5000 RWF to Airtime with token has been completed at 2024-11-12 23:51:04. Fee was 0 RWF. Your new balance: 28022 RWF . Message: - -. *EN#"
   },
   {
     "id": 1290,
@@ -24507,7 +24507,7 @@
     "readable_date": "12 Nov 2024 11:58:08 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*143*R*Y'ello, the transaction with amount 5000 RWF for Data Bundle MTN with message:  failed at 2024-11-12 23:58:00 .Please Contact MobileMoney HelpLine for Assistance.Thank you for using MTN MobileMoney.*EN#"
+    "body": "*143*R*Y'ello, the transaction with amount 5000 RWF for Data Bundle MTN with message: failed at 2024-11-12 23:58:00 .Please Contact MobileMoney HelpLine for Assistance.Thank you for using MTN MobileMoney.*EN#"
   },
   {
     "id": 1291,
@@ -24583,7 +24583,7 @@
     "readable_date": "13 Nov 2024 2:45:32 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:16813007600*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-11-13 14:44:42. Fee was 0 RWF. Your new balance: 5022 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:16813007600*S*Your payment of 2000 RWF to Bundles and Packs with token has been completed at 2024-11-13 14:44:42. Fee was 0 RWF. Your new balance: 5022 RWF . Message: - -. *EN#"
   },
   {
     "id": 1295,
@@ -25567,11 +25567,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-11-22T00:28:21",
+    "timestamp": "2024-11-21T22:28:28.433000+00:00",
     "readable_date": "22 Nov 2024 12:28:28 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*2000 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-11-22 00:28:21 . Fee was: 100 RWF. New balance: 22335 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*2000 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 11-22 00:28:21 . Fee was: 100 RWF. New balance: 22335 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1347,
@@ -25890,11 +25890,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-11-23T22:40:22",
+    "timestamp": "2024-11-23T20:40:29.686000+00:00",
     "readable_date": "23 Nov 2024 10:40:29 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*5000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-11-23 22:40:22 . Fee was: 100 RWF. New balance: 45572 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*5000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 11-23 22:40:22 . Fee was: 100 RWF. New balance: 45572 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1364,
@@ -25947,11 +25947,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-11-24T01:02:16",
+    "timestamp": "2024-11-23T23:02:32.186000+00:00",
     "readable_date": "24 Nov 2024 1:02:32 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1100 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-11-24 01:02:16 . Fee was: 100 RWF. New balance: 19022 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1100 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 11-24 01:02:16 . Fee was: 100 RWF. New balance: 19022 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1367,
@@ -26873,16 +26873,16 @@
     "new_balance": 79492.0,
     "sender": null,
     "sender_phone": null,
-    "receiver": "INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd",
+    "receiver": "INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd",
     "receiver_phone": null,
     "receiver_code": null,
     "account": null,
     "financial_transaction_id": "17149096701",
-    "timestamp": "2024-11-30T14:39:06",
+    "timestamp": "2024-11-30T12:39:12.327000+00:00",
     "readable_date": "30 Nov 2024 2:39:12 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*164*S*Y'ello,A transaction of 200 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-11-30 14:39:06. Message from debit receiver: ITEC Pay. Your new balance:79492 RWF. Fee was 0 RWF. Financial Transaction Id: 17149096701. External Transaction Id: 65c28253-1297-4c0d-b38b-8edec42fa2e2.*EN#"
+    "body": "*164*S*Y'ello,A transaction of 200 RWF by INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd on your MOMO account was successfully completed at 2024-11- 30 14:39:06. Message from debit receiver: ITEC Pay. Your new balance:79492 RWF. Fee was 0 RWF. Financial Transaction Id: 17149096701. External Transaction Id: 65c28253-1297-4c0d-b38b-8edec42fa2e2.*EN#"
   },
   {
     "id": 1416,
@@ -26954,11 +26954,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-11-30T18:04:15",
+    "timestamp": "2024-11-30T16:04:22.507000+00:00",
     "readable_date": "30 Nov 2024 6:04:22 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*4000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-11-30 18:04:15 . Fee was: 100 RWF. New balance: 65042 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*4000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 11-30 18:04:15 . Fee was: 100 RWF. New balance: 65042 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1420,
@@ -27120,16 +27120,16 @@
     "new_balance": 122044.0,
     "sender": null,
     "sender_phone": null,
-    "receiver": "INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd",
+    "receiver": "INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd",
     "receiver_phone": null,
     "receiver_code": null,
     "account": null,
     "financial_transaction_id": "17192081844",
-    "timestamp": "2024-12-02T16:22:35",
+    "timestamp": "2024-12-02T14:22:41.777000+00:00",
     "readable_date": "2 Dec 2024 4:22:41 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*164*S*Y'ello,A transaction of 300 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-12-02 16:22:35. Message from debit receiver: ITEC Pay. Your new balance:122044 RWF. Fee was 0 RWF. Financial Transaction Id: 17192081844. External Transaction Id: 96218fc3-5668-401b-bf53-4fd66a9e276f.*EN#"
+    "body": "*164*S*Y'ello,A transaction of 300 RWF by INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd on your MOMO account was successfully completed at 2024-12- 02 16:22:35. Message from debit receiver: ITEC Pay. Your new balance:122044 RWF. Fee was 0 RWF. Financial Transaction Id: 17192081844. External Transaction Id: 96218fc3-5668-401b-bf53-4fd66a9e276f.*EN#"
   },
   {
     "id": 1429,
@@ -27424,16 +27424,16 @@
     "new_balance": 20524.0,
     "sender": null,
     "sender_phone": null,
-    "receiver": "INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd",
+    "receiver": "INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd",
     "receiver_phone": null,
     "receiver_code": null,
     "account": null,
     "financial_transaction_id": "17219848993",
-    "timestamp": "2024-12-03T21:17:17",
+    "timestamp": "2024-12-03T19:17:25.275000+00:00",
     "readable_date": "3 Dec 2024 9:17:25 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*164*S*Y'ello,A transaction of 400 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-12-03 21:17:17. Message from debit receiver: ITEC Pay. Your new balance:20524 RWF. Fee was 0 RWF. Financial Transaction Id: 17219848993. External Transaction Id: 6ed516b1-6031-4395-9072-b895b96561e7.*EN#"
+    "body": "*164*S*Y'ello,A transaction of 400 RWF by INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd on your MOMO account was successfully completed at 2024-12- 03 21:17:17. Message from debit receiver: ITEC Pay. Your new balance:20524 RWF. Fee was 0 RWF. Financial Transaction Id: 17219848993. External Transaction Id: 6ed516b1-6031-4395-9072-b895b96561e7.*EN#"
   },
   {
     "id": 1445,
@@ -27462,16 +27462,16 @@
     "new_balance": 15124.0,
     "sender": null,
     "sender_phone": null,
-    "receiver": "INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd",
+    "receiver": "INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd",
     "receiver_phone": null,
     "receiver_code": null,
     "account": null,
     "financial_transaction_id": "17236283233",
-    "timestamp": "2024-12-04T18:17:17",
+    "timestamp": "2024-12-04T16:17:23.955000+00:00",
     "readable_date": "4 Dec 2024 6:17:23 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*164*S*Y'ello,A transaction of 300 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-12-04 18:17:17. Message from debit receiver: ITEC Pay. Your new balance:15124 RWF. Fee was 0 RWF. Financial Transaction Id: 17236283233. External Transaction Id: 2eb6d6d7-83ef-43e8-be2c-79af26d8d3b9.*EN#"
+    "body": "*164*S*Y'ello,A transaction of 300 RWF by INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd on your MOMO account was successfully completed at 2024-12- 04 18:17:17. Message from debit receiver: ITEC Pay. Your new balance:15124 RWF. Fee was 0 RWF. Financial Transaction Id: 17236283233. External Transaction Id: 2eb6d6d7-83ef-43e8-be2c-79af26d8d3b9.*EN#"
   },
   {
     "id": 1447,
@@ -27543,11 +27543,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-12-05T18:00:22",
+    "timestamp": "2024-12-05T16:00:28.532000+00:00",
     "readable_date": "5 Dec 2024 6:00:28 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*7000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-12-05 18:00:22 . Fee was: 100 RWF. New balance: 23524 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*7000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 12-05 18:00:22 . Fee was: 100 RWF. New balance: 23524 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1451,
@@ -27595,16 +27595,16 @@
     "new_balance": 9124.0,
     "sender": null,
     "sender_phone": null,
-    "receiver": "INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd",
+    "receiver": "INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd",
     "receiver_phone": null,
     "receiver_code": null,
     "account": null,
     "financial_transaction_id": "17278839589",
-    "timestamp": "2024-12-06T19:22:45",
+    "timestamp": "2024-12-06T17:22:52.572000+00:00",
     "readable_date": "6 Dec 2024 7:22:52 PM",
     "service_center": "+250788110381",
     "address": "M-Money",
-    "body": "*164*S*Y'ello,A transaction of 900 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-12-06 19:22:45. Message from debit receiver: ITEC Pay. Your new balance:9124 RWF. Fee was 0 RWF. Financial Transaction Id: 17278839589. External Transaction Id: 9838017e-bba5-4d1f-b7a9-e57bc604e41d.*EN#"
+    "body": "*164*S*Y'ello,A transaction of 900 RWF by INFORMATION TECHNOLOGY ENGINEERING CONSTRUCTION ITEC Ltd on your MOMO account was successfully completed at 2024-12- 06 19:22:45. Message from debit receiver: ITEC Pay. Your new balance:9124 RWF. Fee was 0 RWF. Financial Transaction Id: 17278839589. External Transaction Id: 9838017e-bba5-4d1f-b7a9-e57bc604e41d.*EN#"
   },
   {
     "id": 1454,
@@ -28018,11 +28018,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-12-11T13:34:41",
+    "timestamp": "2024-12-11T11:34:49.165000+00:00",
     "readable_date": "11 Dec 2024 1:34:49 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*7000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-12-11 13:34:41 . Fee was: 100 RWF. New balance: 3042 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*7000 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 12-11 13:34:41 . Fee was: 100 RWF. New balance: 3042 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1476,
@@ -28269,7 +28269,7 @@
     "readable_date": "13 Dec 2024 4:30:17 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:17417124626*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2024-12-13 16:30:08. Fee was 0 RWF. Your new balance: 51892 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:17417124626*S*Your payment of 3000 RWF to Bundles and Packs with token has been completed at 2024-12-13 16:30:08. Fee was 0 RWF. Your new balance: 51892 RWF . Message: - -. *EN#"
   },
   {
     "id": 1489,
@@ -28398,11 +28398,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-12-14T00:49:44",
+    "timestamp": "2024-12-13T22:49:51.757000+00:00",
     "readable_date": "14 Dec 2024 12:49:51 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-12-14 00:49:44 . Fee was: 20 RWF. New balance: 48251 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 12-14 00:49:44 . Fee was: 20 RWF. New balance: 48251 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1496,
@@ -28759,11 +28759,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-12-16T10:56:31",
+    "timestamp": "2024-12-16T08:56:38.543000+00:00",
     "readable_date": "16 Dec 2024 10:56:38 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*200 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-12-16 10:56:31 . Fee was: 20 RWF. New balance: 4671 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*200 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 12-16 10:56:31 . Fee was: 20 RWF. New balance: 4671 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1515,
@@ -28911,11 +28911,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-12-17T18:55:39",
+    "timestamp": "2024-12-17T16:55:46.767000+00:00",
     "readable_date": "17 Dec 2024 6:55:46 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*7000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-12-17 18:55:39 . Fee was: 100 RWF. New balance: 67642 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*7000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 12-17 18:55:39 . Fee was: 100 RWF. New balance: 67642 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1523,
@@ -29139,11 +29139,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-12-21T10:22:07",
+    "timestamp": "2024-12-21T08:22:14.501000+00:00",
     "readable_date": "21 Dec 2024 10:22:14 AM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*6000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024-12-21 10:22:07 . Fee was: 100 RWF. New balance: 1642 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*6000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2024- 12-21 10:22:07 . Fee was: 100 RWF. New balance: 1642 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1535,
@@ -29462,11 +29462,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-12-22T21:50:43",
+    "timestamp": "2024-12-22T19:50:49.986000+00:00",
     "readable_date": "22 Dec 2024 9:50:49 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*8500 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024-12-22 21:50:43 . Fee was: 100 RWF. New balance: 5132 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*8500 RWF transferred to Alex Doe (250791666666) from 36521838 at 2024- 12-22 21:50:43 . Fee was: 100 RWF. New balance: 5132 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1552,
@@ -29804,11 +29804,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-12-25T16:13:36",
+    "timestamp": "2024-12-25T14:13:43.879000+00:00",
     "readable_date": "25 Dec 2024 4:13:43 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1200 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024-12-25 16:13:36 . Fee was: 100 RWF. New balance: 122834 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1200 RWF transferred to Alex Doe (250790777777) from 36521838 at 2024- 12-25 16:13:36 . Fee was: 100 RWF. New balance: 122834 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1570,
@@ -30355,11 +30355,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2024-12-30T12:10:18",
+    "timestamp": "2024-12-30T10:10:25.942000+00:00",
     "readable_date": "30 Dec 2024 12:10:25 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024-12-30 12:10:18 . Fee was: 20 RWF. New balance: 17094 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1000 RWF transferred to Alex Doe (250788999999) from 36521838 at 2024- 12-30 12:10:18 . Fee was: 20 RWF. New balance: 17094 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1599,
@@ -30929,7 +30929,7 @@
     "readable_date": "3 Jan 2025 6:56:38 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:17868470140*S*Your payment of 2000 RWF to Airtime with token  has been completed at 2025-01-03 18:56:21. Fee was 0 RWF. Your new balance: 6222 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:17868470140*S*Your payment of 2000 RWF to Airtime with token has been completed at 2025-01-03 18:56:21. Fee was 0 RWF. Your new balance: 6222 RWF . Message: - -. *EN#"
   },
   {
     "id": 1629,
@@ -31039,11 +31039,11 @@
     "receiver_code": null,
     "account": "36521838",
     "financial_transaction_id": null,
-    "timestamp": "2025-01-04T21:31:50",
+    "timestamp": "2025-01-04T19:32:07.771000+00:00",
     "readable_date": "4 Jan 2025 9:32:07 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*165*S*1000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2025-01-04 21:31:50 . Fee was: 20 RWF. New balance: 12052 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
+    "body": "*165*S*1000 RWF transferred to Alex Doe (250789888888) from 36521838 at 2025- 01-04 21:31:50 . Fee was: 20 RWF. New balance: 12052 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
     "id": 1635,
@@ -31860,7 +31860,7 @@
     "readable_date": "13 Jan 2025 2:43:05 PM",
     "service_center": "+250788110383",
     "address": "M-Money",
-    "body": "*162*TxId:18064613724*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2025-01-13 14:42:09. Fee was 0 RWF. Your new balance: 983950 RWF . Message: - -. *EN#"
+    "body": "*162*TxId:18064613724*S*Your payment of 3000 RWF to Bundles and Packs with token has been completed at 2025-01-13 14:42:09. Fee was 0 RWF. Your new balance: 983950 RWF . Message: - -. *EN#"
   },
   {
     "id": 1678,

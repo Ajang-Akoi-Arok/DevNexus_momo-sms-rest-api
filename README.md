@@ -6,6 +6,12 @@ two ways of finding a record by id (linear search and a dictionary) to see which
 
 The dataset has 1,691 SMS records and comes from `data/modified_sms_v2.xml`.
 
+## Team task sheet
+
+The team task sheet.
+
+https://docs.google.com/spreadsheets/d/1EkS5XCn2yQ_Z--EyG-x4xoOmWu2UJQp5AcLamAma5BU/edit?usp=sharing
+
 ---
 
 ## Repository layout
@@ -64,7 +70,6 @@ asks for "XML parsing & DSA code (dsa/ folder)".
 Python 3.8 or newer. The parser, the API, the benchmark and the tests all run on the standard
 library alone, so there is nothing to install to use the project.
 
-The only extra package is `reportlab`, and it is only needed if you want to rebuild the PDF report:
 
 ```bash
 pip install -r requirements.txt

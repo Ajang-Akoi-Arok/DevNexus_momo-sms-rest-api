@@ -1,104 +1,127 @@
-import time
-from typing import List, Dict, Any, Optional
+"""Compare linear search against dictionary lookup on the parsed transactions.
 
-from parse_xml import parse_sms_xml
+Two things are measured for each target id:
+
+* wall-clock time, averaged over many repetitions with ``timeit``; and
+* the number of record comparisons each strategy needs.
+
+The comparison count matters because it is independent of how fast this
+particular machine happens to be: linear search needs one comparison per record
+it walks past (O(n)), while a dictionary hashes the key straight to its bucket
+and needs only one (O(1)).
+"""
+
+import os
+import statistics
+import sys
+import timeit
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from dsa.parse_xml import load_transactions  # noqa: E402
+
+REPEATS = 1000
 
 
-def linear_search(
-    transactions: List[Dict[str, Any]],
-    target_id: str
-) -> Optional[Dict[str, Any]]:
+def linear_search(transactions, target_id):
+    """Scan the list one record at a time. O(n)."""
     for record in transactions:
-        if record.get("id") == target_id:
+        if record["id"] == target_id:
             return record
     return None
 
 
-def dictionary_lookup(
-    transactions_map: Dict[str, Dict[str, Any]],
-    target_id: str
-) -> Optional[Dict[str, Any]]:
-    return transactions_map.get(target_id)
+def dict_lookup(index, target_id):
+    """Hash the key straight to its bucket. O(1) on average."""
+    return index.get(target_id)
 
 
-def compare_search_performance(
-    transactions_list: List[Dict[str, Any]],
-    transactions_dict: Dict[str, Dict[str, Any]],
-    target_id: str,
-    iterations: int = 100000
-) -> Dict[str, Any]:
+def build_index(transactions):
+    """Build the id -> transaction dictionary. O(n), done once."""
+    return {record["id"]: record for record in transactions}
 
-    start = time.perf_counter()
 
-    for _ in range(iterations):
-        linear_search(transactions_list, target_id)
+def count_linear_comparisons(transactions, target_id):
+    """How many id comparisons linear search needs to reach `target_id`.
 
-    linear_time = time.perf_counter() - start
+    Counted in a separate pass so the counter never slows down the timed run.
+    """
+    comparisons = 0
+    for record in transactions:
+        comparisons += 1
+        if record["id"] == target_id:
+            break
+    return comparisons
 
-    start = time.perf_counter()
 
-    for _ in range(iterations):
-        dictionary_lookup(transactions_dict, target_id)
+def benchmark(transactions, sample_size=20):
+    """Time both strategies over `sample_size` ids spread across the dataset."""
+    index = build_index(transactions)
+    ids = [record["id"] for record in transactions]
+    step = max(1, len(ids) // sample_size)
+    targets = ids[::step][:sample_size]
 
-    dictionary_time = time.perf_counter() - start
+    # Timing 20 ids at 1000 repeats each takes roughly half a minute, so show
+    # progress. Otherwise it looks like the script has hung. Only do this when
+    # someone is actually watching a terminal, because the carriage returns
+    # make a mess when the output is redirected into a file.
+    show_progress = sys.stdout.isatty()
+    if show_progress:
+        print(f"Timing {len(targets)} ids at {REPEATS} repeats each. "
+              f"This takes about 30 seconds.\n", flush=True)
 
-    speedup = (
-        linear_time / dictionary_time
-        if dictionary_time > 0
-        else 0
-    )
+    rows = []
+    for n, target_id in enumerate(targets, start=1):
+        if show_progress:
+            print(f"\r  measuring {n}/{len(targets)} ...", end="", flush=True)
+        linear = timeit.timeit(lambda: linear_search(transactions, target_id), number=REPEATS)
+        lookup = timeit.timeit(lambda: dict_lookup(index, target_id), number=REPEATS)
+        assert linear_search(transactions, target_id) == dict_lookup(index, target_id)
+        rows.append({
+            "id": target_id,
+            "position": ids.index(target_id) + 1,
+            "linear_us": linear / REPEATS * 1e6,
+            "dict_us": lookup / REPEATS * 1e6,
+            "linear_cmps": count_linear_comparisons(transactions, target_id),
+            # One hash of the key, then one bucket probe - constant regardless of size.
+            "dict_cmps": 1,
+        })
+    if show_progress:
+        print("\r" + " " * 40 + "\r", end="", flush=True)
+    return rows
 
-    return {
-        "target_id": target_id,
-        "total_records": len(transactions_list),
-        "iterations": iterations,
-        "linear_search_time_sec": round(linear_time, 6),
-        "dict_lookup_time_sec": round(dictionary_time, 6),
-        "speedup_factor": round(speedup, 2)
-    }
+
+def report(transactions, rows):
+    print(f"Dataset: {len(transactions)} transactions | {REPEATS} repeats per measurement\n")
+    header = (f"{'ID':>6} {'Position':>9} {'Linear (us)':>13} {'Dict (us)':>11} "
+              f"{'Speed-up':>10} {'Lin cmps':>10} {'Dict cmps':>10}")
+    print(header)
+    print("-" * len(header))
+    for row in rows:
+        speedup = row["linear_us"] / row["dict_us"] if row["dict_us"] else float("inf")
+        print(f"{row['id']:>6} {row['position']:>9} {row['linear_us']:>13.3f} "
+              f"{row['dict_us']:>11.3f} {speedup:>9.1f}x {row['linear_cmps']:>10} "
+              f"{row['dict_cmps']:>10}")
+
+    mean_linear = statistics.mean(r["linear_us"] for r in rows)
+    mean_dict = statistics.mean(r["dict_us"] for r in rows)
+    mean_lin_cmps = statistics.mean(r["linear_cmps"] for r in rows)
+    mean_dict_cmps = statistics.mean(r["dict_cmps"] for r in rows)
+    print("-" * len(header))
+    print(f"{'AVERAGE':>16} {mean_linear:>13.3f} {mean_dict:>11.3f} "
+          f"{mean_linear / mean_dict:>9.1f}x {mean_lin_cmps:>10.1f} {mean_dict_cmps:>10.1f}")
+
+    print(f"\nLinear search  : O(n)  - average {mean_linear:.3f} us, "
+          f"{mean_lin_cmps:.1f} comparisons per lookup")
+    print(f"Dictionary     : O(1)  - average {mean_dict:.3f} us, "
+          f"{mean_dict_cmps:.1f} comparison per lookup")
+    print(f"Dictionary lookup is about {mean_linear / mean_dict:.1f}x faster on this dataset.")
+    print("\nThe comparison counts show the difference is structural, not just machine speed:")
+    print("linear search walks the list until it finds the record, so its cost grows with the")
+    print("record's position, while the dictionary hashes the key straight to its bucket and")
+    print("does the same single probe no matter how large the dataset gets.")
 
 
 if __name__ == "__main__":
-    xml_path = "modified_sms_v2.xml"
-
-    transactions, transactions_dict = parse_sms_xml(xml_path)
-
-    if len(transactions) >= 20:
-        test_records = transactions[:20]
-
-        test_dict = {
-            record["id"]: record
-            for record in test_records
-        }
-
-        target_id = test_records[-1]["id"]
-
-        results = compare_search_performance(
-            test_records,
-            test_dict,
-            target_id
-        )
-
-        print("DSA SEARCH COMPARISON")
-        print("---------------------")
-        print(f"Records tested: {results['total_records']}")
-        print(f"Target ID: {results['target_id']}")
-        print(f"Iterations: {results['iterations']:,}")
-        print(
-            f"Linear Search Time: "
-            f"{results['linear_search_time_sec']} seconds"
-        )
-        print(
-            f"Dictionary Lookup Time: "
-            f"{results['dict_lookup_time_sec']} seconds"
-        )
-        print(
-            f"Dictionary Speedup: "
-            f"{results['speedup_factor']}x"
-        )
-        print()
-        print("Linear Search: O(n)")
-        print("Dictionary Lookup: O(1) average case")
-        print("Binary Search on sorted data: O(log n)")
-    else:
-        print("At least 20 records are required for the comparison.")
+    data = load_transactions()
+    report(data, benchmark(data))
